@@ -4,6 +4,7 @@ No trabalho são apresentados três padrões de projetos estruturais
 - Composite
 - Decorator
 - Facade
+  
 Esse trabalho tem o intuito de fixar o conteúdo apresentado e entender o conceito por trás de cada padrão.
 
 ## Padrão de Projeto: Composite
